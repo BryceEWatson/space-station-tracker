@@ -1,2 +1,1 @@
-# hello-marko
-A bare bones implementation of the marko-js SAV architecture.
+# space-station-tracker sample marko project
